@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://images.icon-icons.com/1107/PNG/512/1486051908-musicsocialnetworkbrandlogo_79096.png" width="120" />
-  <p><i>"A trilha sonora perfeita para o seu dia a dia, em casa ou no seu HB20."</i></p>
+  <p><i>"A trilha sonora perfeita para o seu dia a dia, em casa ou no seu carro."</i></p>
 </div>
 
 <hr>
