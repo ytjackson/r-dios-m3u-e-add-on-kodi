@@ -1,0 +1,93 @@
+#EXTM3U
+#PLAYLIST:super Rádios Favoritas
+(www.radio.pervii.com)
+
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1537619626.jpg" group-title="Rádios", MuzFM
+http://live.muzfm.md:8000/muzfm
+
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/103194.jpg" group-title="Rádios", ANTENA1
+http://antena1.newradio.it/stream/1/
+
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1561790799.jpg" group-title="Rádios", Radio Helax
+http://ice.abradio.cz:8000/helax128.mp3
+
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1537461090.jpg" group-title="Rádios", Dance Wave! - 128 kbit/s
+http://stream.dancewave.online:8080/dance.mp3
+
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1537588883.jpg" group-title="Rádios", Radioparty.pl - 128 kbit/s
+http://s2.radioparty.pl:8000/stream64aac
+
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1537439972.jpg" group-title="Rádios", KISSFM Dance - Kiev - 128 kbit/s
+http://online.kissfm.ua/KissFM
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/103/hunterfm-hits-brasil.0deed163.png" group-title="Rádios", Hunter FM - Hits Brasil
+https://live.hunter.fm/hitsbrasil_normal
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/15916.v19.png" group-title="Rádios", Massa FM Curitiba
+https://stm01.virtualcast.com.br:8118/massacuritiba
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/50455.v14.png" group-title="Rádios", Sertanejo Universitário
+https://player.transmissaodigital.com/proxy/6752;
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/97952.v40.png" group-title="Rádios", Sertanejo FM
+https://stream.zeno.fm/qcwuy1y3tm0uv
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/3/32393.v16.png" group-title="Rádios", Rádio Ouro Verde
+https://servidor18.brlogic.com:7484/live
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/24359.v7.png" group-title="Rádios", 91 Rock
+https://servidor40.brlogic.com:8044/live?
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/99317.v12.png" group-title="Rádios", Pagode 90
+https://stream.zeno.fm/hfqaq0bhfg8uv
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/3/35723.v41.png" group-title="Rádios", Rádio Gospel Hits
+https://servidor37.brlogic.com:7068/live
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/15854.v20.png" group-title="Rádios", Mix FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac?dist=onlineradiobox
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/15850.v41.png" group-title="Rádios", Alpha FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac?dist=onlineradiobox
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/15861.v24.png" group-title="Rádios", Rádio Metropolitana
+https://ice.fabricahost.com.br/metropolitana985sp
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/3/16943.v11.png" group-title="Rádios", Top FM
+https://ice.fabricahost.com.br/topfm1041sp
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/3/125133.v2.png" group-title="Rádios", Life Gospel
+https://sonicpanel.oficialserver.com/8258/stream
+
+#EXTINF:-1 tvg-logo="https://images.icon-icons.com/1107/PNG/512/1486051908-musicsocialnetworkbrandlogo_79096.png" group-title="Rádios", Rádio Cidade FM
+https://rrdns-raizesfm.webnow.com.br/urussanga.aac
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR16zE1fLyHF9LWU-0jTPaoGAu7Bue0hIKuJ8fatwjCig&s=10" group-title="Rádios", Rádio a Mais Sertaneja
+https://srv3.soundstream.com.br/listen/amaissertaneja/live
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR16zE1fLyHF9LWU-0jTPaoGAu7Bue0hIKuJ8fatwjCig&s=10" group-title="Rádios", Massa FM
+https://stm01.virtualcast.com.br:8130/massavilhena
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR16zE1fLyHF9LWU-0jTPaoGAu7Bue0hIKuJ8fatwjCig&s=10" group-title="Rádios", Jovem Pan News
+https://jcrioclaro.jmvstream.com/live
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR16zE1fLyHF9LWU-0jTPaoGAu7Bue0hIKuJ8fatwjCig&s=10" group-title="Rádios", Rádio Disney
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BRA_SPAAC.aac
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR16zE1fLyHF9LWU-0jTPaoGAu7Bue0hIKuJ8fatwjCig&s=10" group-title="Rádios", Rádio Legal FM
+https://stm1.conectastreaming.com:7008/;
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR16zE1fLyHF9LWU-0jTPaoGAu7Bue0hIKuJ8fatwjCig&s=10" group-title="Rádios", Mix Rio FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXRIOAAC.aac
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR16zE1fLyHF9LWU-0jTPaoGAu7Bue0hIKuJ8fatwjCig&s=10" group-title="Rádios", 98 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/98FM_CWBAAC.aac
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR16zE1fLyHF9LWU-0jTPaoGAu7Bue0hIKuJ8fatwjCig&s=10" group-title="Rádios", Plus FM
+https://webradio.amsolution.com.br/radio/8150/paraipaba
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR16zE1fLyHF9LWU-0jTPaoGAu7Bue0hIKuJ8fatwjCig&s=10" group-title="Rádios", Melody FM
+https://clube.cdn.upx.com:8080/stream
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR16zE1fLyHF9LWU-0jTPaoGAu7Bue0hIKuJ8fatwjCig&s=10" group-title="Rádios", Gospel FM
+https://player.hdmidia.srv.br/proxy/7004
