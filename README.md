@@ -2,31 +2,38 @@
 
 <div align="center">
   <img src="https://images.icon-icons.com/1107/PNG/512/1486051908-musicsocialnetworkbrandlogo_79096.png" width="120" />
-  <p><i>"A trilha sonora perfeita para o seu dia a dia, em casa ou no seu carro."</i></p>
+  <p><i>"A trilha sonora perfeita para o seu dia a dia, em casa ou no seu HB20."</i></p>
 </div>
 
 <hr>
 
 ### 📋 Sobre o Projeto
-Este é um Add-on de áudio exclusivo para o **Kodi**, focado em oferecer acesso rápido às melhores estações de rádio. O sistema lê a lista diretamente do GitHub, garantindo que você sempre tenha os links mais atualizados.
+Este repositório oferece duas formas de acessar as melhores rádios nacionais e internacionais organizadas por Jackson Matos. Você pode usar o Add-on exclusivo para Kodi ou o link direto da lista M3U em qualquer player.
 
 ### ✨ O que você encontra aqui:
 * 🎶 **Variedade Musical:** Estações de Sertanejo, Rock, Gospel, Dance e Pop.
-* 📱 **Integração Social:** Acesso direto ao perfil do desenvolvedor.
-* 🎨 **Visual Limpo:** Organização com logos padronizados para cada rádio.
+* 📱 **Integração Social:** Acesso direto ao Instagram do desenvolvedor no menu do Add-on.
+* 🎨 **Organização:** Todos os itens com logos padronizados e links sempre atualizados.
 
 <hr>
 
 ### 🛠️ Tecnologias e Ferramentas
-<img src="https://img.shields.io/badge/Formato-ZIP-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Categoria-Kodi_Audio_Addon-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Formato-ZIP_&_M3U-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Categoria-Entretenimento-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge" />
 
 <hr>
 
-### 🚀 Como Instalar no Kodi
-1. No seu repositório, baixe o arquivo **.zip** do Add-on.
+### 🚀 Como Usar (Escolha sua opção)
+
+#### Opção 1: Add-on para Kodi (Recomendado)
+1. Baixe o arquivo **.zip** deste repositório.
 2. No Kodi, vá em **Configurações > Sistema > Add-ons** e ative "Fontes Desconhecidas".
 3. Selecione **"Instalar via arquivo ZIP"** e escolha o arquivo baixado.
 4. O add-on aparecerá na sua seção de **Músicas / Add-ons de Áudio**.
+
+#### Opção 2: Link Direto M3U (Qualquer Player)
+Se você usa aplicativos como IPTV Smarters, OTT Player ou Perfect Player, basta copiar o link abaixo:
+`https://raw.githubusercontent.com/ytjackson/NOME-DO-REPOSITORIO/principal/radios.m3u`
+*(Lembre-se de trocar "NOME-DO-REPOSITORIO" pelo nome que você deu ao seu projeto no GitHub).*
 
 ---
 <div align="center">
@@ -41,4 +48,3 @@ Este é um Add-on de áudio exclusivo para o **Kodi**, focado em oferecer acesso
     </a>
   </p>
 </div>
-
