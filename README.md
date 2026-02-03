@@ -32,7 +32,7 @@ Este repositório oferece duas formas de acessar as melhores rádios nacionais e
 
 #### Opção 2: Link Direto M3U (Qualquer Player)
 Se você usa aplicativos como IPTV Smarters, OTT Player ou Perfect Player, basta copiar o link abaixo:
-`https://raw.githubusercontent.com/ytjackson/r-dios-m3u-e-add-on-kodi/refs/heads/main/radios.m3u`
+`https://github.com/ytjackson/r-dios-m3u-e-add-on-kodi/raw/refs/heads/main/radios.m3u`
 *(para pegar o link"clique em rádios.m3u e depois raw" vai ver a página com os rádios só pegar a URL).*
 
 ---
