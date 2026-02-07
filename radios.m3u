@@ -91,3 +91,7 @@ https://clube.cdn.upx.com:8080/stream
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR16zE1fLyHF9LWU-0jTPaoGAu7Bue0hIKuJ8fatwjCig&s=10" group-title="Rádios", Gospel FM
 https://player.hdmidia.srv.br/proxy/7004
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR16zE1fLyHF9LWU-0jTPaoGAu7Bue0hIKuJ8fatwjCig&s=10" group-title="Rádios",CBN Londrina
+https://rrdns-megasistema.webnow.com.br/cbnlondrina.aac
+
